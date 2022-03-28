@@ -1,2 +1,2 @@
 # stc-project
-HOW DOES THIS WORK?!
+Change this! Don't forget!
