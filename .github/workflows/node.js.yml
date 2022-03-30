@@ -7,7 +7,7 @@ on:
   push:
     branches: [ node-project ]
   pull_request:
-    branches: [ main ]
+    branches: [ node-project ]
 
 jobs:
   build:
