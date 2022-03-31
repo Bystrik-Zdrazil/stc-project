@@ -21,3 +21,4 @@ jobs:
             npm install
             tsc
             npm run start --if-present
+#sem nic nedopisovat
